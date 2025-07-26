@@ -67,7 +67,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "2348110572387"
+      "value": "923370416077"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
